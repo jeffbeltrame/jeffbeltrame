@@ -6,11 +6,10 @@ Atualmente estou em transição de carreira para me tornar **Desenvolvedor Front
 
 Trago comigo uma forte bagagem de anos atuando com suporte técnico e infraestrutura.
 
-Hoje, meu foco total é construir uma base extremamente sólida no desenvolvimento web. Sou do tipo que, enquanto estuda, gosta de entender os fundamentos de verdade e fazer as coisas "no braço", sem atalhos, para garantir que o conhecimento fique bem fixado.
+Com estou hoje:
 
 - 🔭 Atualmente estou desenvolvendo projetos pessoais para o meu portfólio.
 - 🌱 Estudando e focando nos fundamentos da web para ter a melhor base possível, para então partir em busca do Full Stack.
-- ⚡ Algumas coisas que eu amo além do código: Jogar vídeogames, treinar, desenhar, Santos Futebol Clube (é uma relação de amor e ódio), ouvir minhas bandas favoritas (Avenged Sevenfold e System of a Down).
 
 ---
 
